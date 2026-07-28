@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
+    "accelerate>=1.14.0",
     "jupyterlab>=4.5.7",
     "matplotlib>=3.10.9",
     "numpy>=2.2.6",
@@ -12,8 +13,10 @@ dependencies = [
     "pandas>=2.3.3",
     "psutils>=3.3.11",
     "pymupdf>=1.27.2.3",
+    "python-dotenv>=1.2.2",
     "tensorflow>=2.21.0",
     "tiktoken>=0.13.0",
     "torch>=2.12.0",
     "tqdm>=4.67.3",
+    "transformers>=5.13.1",
 ]
