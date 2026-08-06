@@ -13,3 +13,11 @@ wheels/
 .ipynb_checkpoints/
 
 .env
+
+# Markdown files
+*.md
+
+# Agent skills & configs
+.agents/
+.claude/
+skills-lock.json
