@@ -14,6 +14,7 @@ dependencies = [
     "psutils>=3.3.11",
     "pymupdf>=1.27.2.3",
     "python-dotenv>=1.2.2",
+    "seaborn>=0.13.2",
     "tensorflow>=2.21.0",
     "thop>=0.1.1.post2209072238",
     "tiktoken>=0.13.0",
